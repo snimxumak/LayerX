@@ -1,10 +1,10 @@
 # LayerX
 
 1- What is this?
-	* This is a LayerX installation/upgrade package to version #.#
-	* LayerX Official site: https://www.tikal.com/layerx
-	* LayerX version history - https://www.tikal.com/layerx/docs/version-history
-	* Detailed changes in the Changelog: https://github.com/tikal/layerx/commits/master
+* This is a LayerX installation/upgrade package to version #.#
+* LayerX Official site: https://www.tikal.com/layerx
+* LayerX version history - https://www.tikal.com/layerx/docs/version-history
+* Detailed changes in the Changelog: https://github.com/tikal/layerx/commits/master
 
 2- What is LayerX?
 	* Item 1
